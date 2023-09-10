@@ -16,6 +16,10 @@ body{
 .team-row1 > div, .team-row2 > div{
     margin: 15px 80px;
 }
+.team-row2{
+    justify-content: center;
+    align-items: center;
+}
 
 .user1, .user2, .user3, .user4{
     /* background: linear-gradient(to top right, white, rgb(163, 246, 174), white); */
